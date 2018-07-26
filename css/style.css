@@ -1,0 +1,35 @@
+#title {
+	 color: #121BCA;
+	 font-size: 85px;
+	 text-align: center;
+}
+.Bar{
+	color: pink;
+	background-color: #121BCA;
+	width: 80%;
+	height: 15px;
+    margin:auto;
+}
+#boots{
+margin-left: 150px;
+ font-size: 24px;
+ font-family: cursive;
+ width: 11%;
+ padding: 20px;
+}
+#bootstheny{
+margin-left: 200px;
+ font-size: 24px;
+ font-family: cursive;
+ width: 190px;
+ padding: 20px;
+}
+#plowel {
+	background-color: #1D07E4;
+	max-width: 1000px ;
+	position: absolute;
+	top: 210px;
+	left :50px;
+	font-size: 72px;
+	color: #FFFFFF
+}
